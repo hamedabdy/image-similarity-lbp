@@ -1,2 +1,2 @@
 # image-similarity-lbp
-M2 - image processing acedemic project
+M2 - image processing academic project
